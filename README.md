@@ -1,1 +1,1 @@
-# convergence-plot
+# c++ plotting library
